@@ -1,0 +1,380 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohyidin hawary\\Desktop\\GymSystemAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4069C8-DC12-4295-A304-1116EF21042B}|GymSystemAPI\\GymSystemAPI.csproj|c:\\users\\mohyidin hawary\\desktop\\gymsystemapi\\gymsystemapi\\controllers\\api\\manager\\usersmanagmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4069C8-DC12-4295-A304-1116EF21042B}|GymSystemAPI\\GymSystemAPI.csproj|solutionrelative:gymsystemapi\\controllers\\api\\manager\\usersmanagmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4069C8-DC12-4295-A304-1116EF21042B}|GymSystemAPI\\GymSystemAPI.csproj|C:\\Users\\mohyidin hawary\\Desktop\\GymSystemAPI\\gymsystemapi\\controllers\\api\\manager\\trainersmanagmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4069C8-DC12-4295-A304-1116EF21042B}|GymSystemAPI\\GymSystemAPI.csproj|solutionrelative:gymsystemapi\\controllers\\api\\manager\\trainersmanagmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4069C8-DC12-4295-A304-1116EF21042B}|GymSystemAPI\\GymSystemAPI.csproj|C:\\Users\\mohyidin hawary\\Desktop\\GymSystemAPI\\gymsystemapi\\services\\registeration\\trainerregisteration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4069C8-DC12-4295-A304-1116EF21042B}|GymSystemAPI\\GymSystemAPI.csproj|solutionrelative:gymsystemapi\\services\\registeration\\trainerregisteration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4069C8-DC12-4295-A304-1116EF21042B}|GymSystemAPI\\GymSystemAPI.csproj|C:\\Users\\mohyidin hawary\\Desktop\\GymSystemAPI\\gymsystemapi\\services\\registeration\\traineeregisteration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4069C8-DC12-4295-A304-1116EF21042B}|GymSystemAPI\\GymSystemAPI.csproj|solutionrelative:gymsystemapi\\services\\registeration\\traineeregisteration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4069C8-DC12-4295-A304-1116EF21042B}|GymSystemAPI\\GymSystemAPI.csproj|C:\\Users\\mohyidin hawary\\Desktop\\GymSystemAPI\\gymsystemapi\\services\\login\\managerlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4069C8-DC12-4295-A304-1116EF21042B}|GymSystemAPI\\GymSystemAPI.csproj|solutionrelative:gymsystemapi\\services\\login\\managerlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4069C8-DC12-4295-A304-1116EF21042B}|GymSystemAPI\\GymSystemAPI.csproj|C:\\Users\\mohyidin hawary\\Desktop\\GymSystemAPI\\gymsystemapi\\controllers\\api\\manager\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4069C8-DC12-4295-A304-1116EF21042B}|GymSystemAPI\\GymSystemAPI.csproj|solutionrelative:gymsystemapi\\controllers\\api\\manager\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4069C8-DC12-4295-A304-1116EF21042B}|GymSystemAPI\\GymSystemAPI.csproj|c:\\users\\mohyidin hawary\\desktop\\gymsystemapi\\gymsystemapi\\services\\login\\traineelogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4069C8-DC12-4295-A304-1116EF21042B}|GymSystemAPI\\GymSystemAPI.csproj|solutionrelative:gymsystemapi\\services\\login\\traineelogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4069C8-DC12-4295-A304-1116EF21042B}|GymSystemAPI\\GymSystemAPI.csproj|c:\\users\\mohyidin hawary\\desktop\\gymsystemapi\\gymsystemapi\\services\\login\\trainerlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4069C8-DC12-4295-A304-1116EF21042B}|GymSystemAPI\\GymSystemAPI.csproj|solutionrelative:gymsystemapi\\services\\login\\trainerlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mohyidin hawary\\AppData\\Local\\Temp\\hamrylhb..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4069C8-DC12-4295-A304-1116EF21042B}|GymSystemAPI\\GymSystemAPI.csproj|C:\\Users\\mohyidin hawary\\Desktop\\GymSystemAPI\\gymsystemapi\\controllers\\api\\trainee\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4069C8-DC12-4295-A304-1116EF21042B}|GymSystemAPI\\GymSystemAPI.csproj|solutionrelative:gymsystemapi\\controllers\\api\\trainee\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4069C8-DC12-4295-A304-1116EF21042B}|GymSystemAPI\\GymSystemAPI.csproj|C:\\Users\\mohyidin hawary\\Desktop\\GymSystemAPI\\gymsystemapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4069C8-DC12-4295-A304-1116EF21042B}|GymSystemAPI\\GymSystemAPI.csproj|solutionrelative:gymsystemapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4069C8-DC12-4295-A304-1116EF21042B}|GymSystemAPI\\GymSystemAPI.csproj|C:\\Users\\mohyidin hawary\\Desktop\\GymSystemAPI\\gymsystemapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5F4069C8-DC12-4295-A304-1116EF21042B}|GymSystemAPI\\GymSystemAPI.csproj|solutionrelative:gymsystemapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4069C8-DC12-4295-A304-1116EF21042B}|GymSystemAPI\\GymSystemAPI.csproj|C:\\Users\\mohyidin hawary\\Desktop\\GymSystemAPI\\gymsystemapi\\services\\login\\ilogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4069C8-DC12-4295-A304-1116EF21042B}|GymSystemAPI\\GymSystemAPI.csproj|solutionrelative:gymsystemapi\\services\\login\\ilogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4069C8-DC12-4295-A304-1116EF21042B}|GymSystemAPI\\GymSystemAPI.csproj|C:\\Users\\mohyidin hawary\\Desktop\\GymSystemAPI\\gymsystemapi\\services\\token\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4069C8-DC12-4295-A304-1116EF21042B}|GymSystemAPI\\GymSystemAPI.csproj|solutionrelative:gymsystemapi\\services\\token\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4069C8-DC12-4295-A304-1116EF21042B}|GymSystemAPI\\GymSystemAPI.csproj|C:\\Users\\mohyidin hawary\\Desktop\\GymSystemAPI\\gymsystemapi\\services\\token\\itoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4069C8-DC12-4295-A304-1116EF21042B}|GymSystemAPI\\GymSystemAPI.csproj|solutionrelative:gymsystemapi\\services\\token\\itoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4069C8-DC12-4295-A304-1116EF21042B}|GymSystemAPI\\GymSystemAPI.csproj|C:\\Users\\mohyidin hawary\\Desktop\\GymSystemAPI\\gymsystemapi\\services\\registeration\\iregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4069C8-DC12-4295-A304-1116EF21042B}|GymSystemAPI\\GymSystemAPI.csproj|solutionrelative:gymsystemapi\\services\\registeration\\iregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4069C8-DC12-4295-A304-1116EF21042B}|GymSystemAPI\\GymSystemAPI.csproj|c:\\users\\mohyidin hawary\\desktop\\gymsystemapi\\gymsystemapi\\models\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4069C8-DC12-4295-A304-1116EF21042B}|GymSystemAPI\\GymSystemAPI.csproj|solutionrelative:gymsystemapi\\models\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4069C8-DC12-4295-A304-1116EF21042B}|GymSystemAPI\\GymSystemAPI.csproj|C:\\Users\\mohyidin hawary\\Desktop\\GymSystemAPI\\GymSystemAPI\\Migrations\\20240727115657_UsersMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4069C8-DC12-4295-A304-1116EF21042B}|GymSystemAPI\\GymSystemAPI.csproj|solutionrelative:GymSystemAPI\\Migrations\\20240727115657_UsersMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4069C8-DC12-4295-A304-1116EF21042B}|GymSystemAPI\\GymSystemAPI.csproj|C:\\Users\\mohyidin hawary\\Desktop\\GymSystemAPI\\gymsystemapi\\models\\domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4069C8-DC12-4295-A304-1116EF21042B}|GymSystemAPI\\GymSystemAPI.csproj|solutionrelative:gymsystemapi\\models\\domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4069C8-DC12-4295-A304-1116EF21042B}|GymSystemAPI\\GymSystemAPI.csproj|C:\\Users\\mohyidin hawary\\Desktop\\GymSystemAPI\\gymsystemapi\\enums\\genderenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4069C8-DC12-4295-A304-1116EF21042B}|GymSystemAPI\\GymSystemAPI.csproj|solutionrelative:gymsystemapi\\enums\\genderenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4069C8-DC12-4295-A304-1116EF21042B}|GymSystemAPI\\GymSystemAPI.csproj|C:\\Users\\mohyidin hawary\\Desktop\\GymSystemAPI\\gymsystemapi\\services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4069C8-DC12-4295-A304-1116EF21042B}|GymSystemAPI\\GymSystemAPI.csproj|solutionrelative:gymsystemapi\\services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mohyidin hawary\\AppData\\Local\\Temp\\hamrylhb..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mohyidin hawary\\AppData\\Local\\Temp\\hamrylhb..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersManagmentController.cs",
+              "DocumentMoniker": "C:\\Users\\mohyidin hawary\\Desktop\\GymSystemAPI\\GymSystemAPI\\Controllers\\API\\manager\\UsersManagmentController.cs",
+              "RelativeDocumentMoniker": "GymSystemAPI\\Controllers\\API\\manager\\UsersManagmentController.cs",
+              "ToolTip": "C:\\Users\\mohyidin hawary\\Desktop\\GymSystemAPI\\GymSystemAPI\\Controllers\\API\\manager\\UsersManagmentController.cs",
+              "RelativeToolTip": "GymSystemAPI\\Controllers\\API\\manager\\UsersManagmentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T21:49:34.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManagerLogin.cs",
+              "DocumentMoniker": "C:\\Users\\mohyidin hawary\\Desktop\\GymSystemAPI\\GymSystemAPI\\Services\\Login\\ManagerLogin.cs",
+              "RelativeDocumentMoniker": "GymSystemAPI\\Services\\Login\\ManagerLogin.cs",
+              "ToolTip": "C:\\Users\\mohyidin hawary\\Desktop\\GymSystemAPI\\GymSystemAPI\\Services\\Login\\ManagerLogin.cs",
+              "RelativeToolTip": "GymSystemAPI\\Services\\Login\\ManagerLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T05:32:43.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TrainersManagmentController.cs",
+              "DocumentMoniker": "C:\\Users\\mohyidin hawary\\Desktop\\GymSystemAPI\\GymSystemAPI\\Controllers\\API\\manager\\TrainersManagmentController.cs",
+              "RelativeDocumentMoniker": "GymSystemAPI\\Controllers\\API\\manager\\TrainersManagmentController.cs",
+              "ToolTip": "C:\\Users\\mohyidin hawary\\Desktop\\GymSystemAPI\\GymSystemAPI\\Controllers\\API\\manager\\TrainersManagmentController.cs",
+              "RelativeToolTip": "GymSystemAPI\\Controllers\\API\\manager\\TrainersManagmentController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAwEsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T06:46:54.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TraineeRegisteration.cs",
+              "DocumentMoniker": "C:\\Users\\mohyidin hawary\\Desktop\\GymSystemAPI\\GymSystemAPI\\Services\\Registeration\\TraineeRegisteration.cs",
+              "RelativeDocumentMoniker": "GymSystemAPI\\Services\\Registeration\\TraineeRegisteration.cs",
+              "ToolTip": "C:\\Users\\mohyidin hawary\\Desktop\\GymSystemAPI\\GymSystemAPI\\Services\\Registeration\\TraineeRegisteration.cs",
+              "RelativeToolTip": "GymSystemAPI\\Services\\Registeration\\TraineeRegisteration.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAQwCsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T12:10:06.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TrainerRegisteration.cs",
+              "DocumentMoniker": "C:\\Users\\mohyidin hawary\\Desktop\\GymSystemAPI\\GymSystemAPI\\Services\\Registeration\\TrainerRegisteration.cs",
+              "RelativeDocumentMoniker": "GymSystemAPI\\Services\\Registeration\\TrainerRegisteration.cs",
+              "ToolTip": "C:\\Users\\mohyidin hawary\\Desktop\\GymSystemAPI\\GymSystemAPI\\Services\\Registeration\\TrainerRegisteration.cs",
+              "RelativeToolTip": "GymSystemAPI\\Services\\Registeration\\TrainerRegisteration.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwCgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T12:09:39.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ManagerController.cs",
+              "DocumentMoniker": "C:\\Users\\mohyidin hawary\\Desktop\\GymSystemAPI\\GymSystemAPI\\Controllers\\API\\manager\\ManagerController.cs",
+              "RelativeDocumentMoniker": "GymSystemAPI\\Controllers\\API\\manager\\ManagerController.cs",
+              "ToolTip": "C:\\Users\\mohyidin hawary\\Desktop\\GymSystemAPI\\GymSystemAPI\\Controllers\\API\\manager\\ManagerController.cs",
+              "RelativeToolTip": "GymSystemAPI\\Controllers\\API\\manager\\ManagerController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T07:57:11.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TraineeLogin.cs",
+              "DocumentMoniker": "C:\\Users\\mohyidin hawary\\Desktop\\GymSystemAPI\\GymSystemAPI\\Services\\Login\\TraineeLogin.cs",
+              "RelativeDocumentMoniker": "GymSystemAPI\\Services\\Login\\TraineeLogin.cs",
+              "ToolTip": "C:\\Users\\mohyidin hawary\\Desktop\\GymSystemAPI\\GymSystemAPI\\Services\\Login\\TraineeLogin.cs",
+              "RelativeToolTip": "GymSystemAPI\\Services\\Login\\TraineeLogin.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAwCYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T17:58:13.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TrainerLogin.cs",
+              "DocumentMoniker": "C:\\Users\\mohyidin hawary\\Desktop\\GymSystemAPI\\GymSystemAPI\\Services\\Login\\TrainerLogin.cs",
+              "RelativeDocumentMoniker": "GymSystemAPI\\Services\\Login\\TrainerLogin.cs",
+              "ToolTip": "C:\\Users\\mohyidin hawary\\Desktop\\GymSystemAPI\\GymSystemAPI\\Services\\Login\\TrainerLogin.cs",
+              "RelativeToolTip": "GymSystemAPI\\Services\\Login\\TrainerLogin.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAYwCIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T18:02:37.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\mohyidin hawary\\AppData\\Local\\Temp\\hamrylhb..sql",
+              "RelativeDocumentMoniker": "..\\..\\AppData\\Local\\Temp\\hamrylhb..sql",
+              "ToolTip": "SQLQuery1.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-07T18:55:30.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\mohyidin hawary\\Desktop\\GymSystemAPI\\GymSystemAPI\\Controllers\\API\\Trainee\\AccountController.cs",
+              "RelativeDocumentMoniker": "GymSystemAPI\\Controllers\\API\\Trainee\\AccountController.cs",
+              "ToolTip": "C:\\Users\\mohyidin hawary\\Desktop\\GymSystemAPI\\GymSystemAPI\\Controllers\\API\\Trainee\\AccountController.cs",
+              "RelativeToolTip": "GymSystemAPI\\Controllers\\API\\Trainee\\AccountController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAAC0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T17:16:58.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mohyidin hawary\\Desktop\\GymSystemAPI\\GymSystemAPI\\Program.cs",
+              "RelativeDocumentMoniker": "GymSystemAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\mohyidin hawary\\Desktop\\GymSystemAPI\\GymSystemAPI\\Program.cs",
+              "RelativeToolTip": "GymSystemAPI\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAQwDEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T05:24:52.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mohyidin hawary\\Desktop\\GymSystemAPI\\GymSystemAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "GymSystemAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\mohyidin hawary\\Desktop\\GymSystemAPI\\GymSystemAPI\\appsettings.json",
+              "RelativeToolTip": "GymSystemAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-27T06:17:32.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ILogin.cs",
+              "DocumentMoniker": "C:\\Users\\mohyidin hawary\\Desktop\\GymSystemAPI\\GymSystemAPI\\Services\\Login\\ILogin.cs",
+              "RelativeDocumentMoniker": "GymSystemAPI\\Services\\Login\\ILogin.cs",
+              "ToolTip": "C:\\Users\\mohyidin hawary\\Desktop\\GymSystemAPI\\GymSystemAPI\\Services\\Login\\ILogin.cs",
+              "RelativeToolTip": "GymSystemAPI\\Services\\Login\\ILogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T07:55:49.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Token.cs",
+              "DocumentMoniker": "C:\\Users\\mohyidin hawary\\Desktop\\GymSystemAPI\\GymSystemAPI\\Services\\Token\\Token.cs",
+              "RelativeDocumentMoniker": "GymSystemAPI\\Services\\Token\\Token.cs",
+              "ToolTip": "C:\\Users\\mohyidin hawary\\Desktop\\GymSystemAPI\\GymSystemAPI\\Services\\Token\\Token.cs",
+              "RelativeToolTip": "GymSystemAPI\\Services\\Token\\Token.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T06:14:35.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IToken.cs",
+              "DocumentMoniker": "C:\\Users\\mohyidin hawary\\Desktop\\GymSystemAPI\\GymSystemAPI\\Services\\Token\\IToken.cs",
+              "RelativeDocumentMoniker": "GymSystemAPI\\Services\\Token\\IToken.cs",
+              "ToolTip": "C:\\Users\\mohyidin hawary\\Desktop\\GymSystemAPI\\GymSystemAPI\\Services\\Token\\IToken.cs",
+              "RelativeToolTip": "GymSystemAPI\\Services\\Token\\IToken.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T12:27:21.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IRegister.cs",
+              "DocumentMoniker": "C:\\Users\\mohyidin hawary\\Desktop\\GymSystemAPI\\GymSystemAPI\\Services\\Registeration\\IRegister.cs",
+              "RelativeDocumentMoniker": "GymSystemAPI\\Services\\Registeration\\IRegister.cs",
+              "ToolTip": "C:\\Users\\mohyidin hawary\\Desktop\\GymSystemAPI\\GymSystemAPI\\Services\\Registeration\\IRegister.cs",
+              "RelativeToolTip": "GymSystemAPI\\Services\\Registeration\\IRegister.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T12:08:27.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\mohyidin hawary\\Desktop\\GymSystemAPI\\GymSystemAPI\\Models\\Dto\\UserDto.cs",
+              "RelativeDocumentMoniker": "GymSystemAPI\\Models\\Dto\\UserDto.cs",
+              "ToolTip": "C:\\Users\\mohyidin hawary\\Desktop\\GymSystemAPI\\GymSystemAPI\\Models\\Dto\\UserDto.cs",
+              "RelativeToolTip": "GymSystemAPI\\Models\\Dto\\UserDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvx8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T06:56:25.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\mohyidin hawary\\Desktop\\GymSystemAPI\\GymSystemAPI\\Models\\Domain\\User.cs",
+              "RelativeDocumentMoniker": "GymSystemAPI\\Models\\Domain\\User.cs",
+              "ToolTip": "C:\\Users\\mohyidin hawary\\Desktop\\GymSystemAPI\\GymSystemAPI\\Models\\Domain\\User.cs",
+              "RelativeToolTip": "GymSystemAPI\\Models\\Domain\\User.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA7wB4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T19:11:28.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240727115657_UsersMigration.cs",
+              "DocumentMoniker": "C:\\Users\\mohyidin hawary\\Desktop\\GymSystemAPI\\GymSystemAPI\\Migrations\\20240727115657_UsersMigration.cs",
+              "RelativeDocumentMoniker": "GymSystemAPI\\Migrations\\20240727115657_UsersMigration.cs",
+              "ToolTip": "C:\\Users\\mohyidin hawary\\Desktop\\GymSystemAPI\\GymSystemAPI\\Migrations\\20240727115657_UsersMigration.cs",
+              "RelativeToolTip": "GymSystemAPI\\Migrations\\20240727115657_UsersMigration.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T11:56:57.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GenderEnum.cs",
+              "DocumentMoniker": "C:\\Users\\mohyidin hawary\\Desktop\\GymSystemAPI\\GymSystemAPI\\enums\\GenderEnum.cs",
+              "RelativeDocumentMoniker": "GymSystemAPI\\enums\\GenderEnum.cs",
+              "ToolTip": "C:\\Users\\mohyidin hawary\\Desktop\\GymSystemAPI\\GymSystemAPI\\enums\\GenderEnum.cs",
+              "RelativeToolTip": "GymSystemAPI\\enums\\GenderEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T08:27:44.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mohyidin hawary\\Desktop\\GymSystemAPI\\GymSystemAPI\\Services\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "GymSystemAPI\\Services\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\mohyidin hawary\\Desktop\\GymSystemAPI\\GymSystemAPI\\Services\\ApplicationDbContext.cs",
+              "RelativeToolTip": "GymSystemAPI\\Services\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T08:46:52.187Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
