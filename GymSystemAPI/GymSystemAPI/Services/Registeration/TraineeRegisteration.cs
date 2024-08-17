@@ -20,7 +20,7 @@ namespace GymSystemAPI.Services.Registeration
             _tokenService = tokenService;
         }
 
-        public async Task<string> RegisterUserAsync(UserDto userDto)
+        public async Task<(string jwt,UserProfileDto useProfile)> RegisterUserAsync(UserDto userDto)
         {
             // Check if the email address is already in use
             if (await _context.Users.AnyAsync(u => u.Email == userDto.Email))
@@ -29,18 +29,18 @@ namespace GymSystemAPI.Services.Registeration
             }
 
             // Encrypt password
-            var passwordHasher = new PasswordHasher<User>();
-            var encryptedPassword = passwordHasher.HashPassword(new User(), userDto.Password);
+           
 
             // Create new account
             User user = new User
             {
+
                 FirstName = userDto.FirstName,
                 LastName = userDto.LastName,
                 Email = userDto.Email,
                 Phone = userDto.Phone ?? "",
                 Address = userDto.Address,
-                Password = encryptedPassword,
+                Password = userDto.Password,
                 Role = "Trainee",
                 Gender = userDto.Gender,
                 Subscription= userDto.Subscription,
@@ -50,9 +50,19 @@ namespace GymSystemAPI.Services.Registeration
 
             _context.Users.Add(user);
             await _context.SaveChangesAsync();
+            UserProfileDto profile = new UserProfileDto()
+            {
+                Id = user.Id,
+                FirstName = user.FirstName,
+                LastName = user.LastName,
+                Email = user.Email,
+                Phone = user.Phone,
+                Address = user.Address,
+                Gender = user.Gender,
+            };   
             var jwt = _tokenService.CreateJWTToken(user);
 
-            return jwt;
+            return (jwt,profile);
 
         }
     }

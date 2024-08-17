@@ -1,7 +1,9 @@
 using GymSystemAPI.Models.Domain;
 using GymSystemAPI.Services;
 using GymSystemAPI.Services.Login;
+using GymSystemAPI.Services.QRCode;
 using GymSystemAPI.Services.Registeration;
+using GymSystemAPI.Services.Settings;
 using GymSystemAPI.Services.Token;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
@@ -23,9 +25,21 @@ services.AddTransient<ILoginService,TraineeLogin>();
 services.AddTransient<ITokenService, Token>();
 
 //Register
-services.AddTransient<IRegistrationService, TrainerRegisteration>();
+
 services.AddTransient<IRegistrationService, TraineeRegisteration>();
 
+services.AddTransient<ISettingsService, UserSettings>();
+
+services.AddTransient<IQRCodeService,QrCode >();
+
+
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowSpecificOrigin",
+           builder => builder.AllowAnyOrigin()
+                             .AllowAnyHeader()
+                             .AllowAnyMethod());
+});
 
 //services.AddIdentity<User, IdentityRole>();
 
@@ -79,9 +93,14 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+app.UseRouting();
+app.UseCors("AllowSpecificOrigin");
 app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();
-
+app.UseEndpoints(endpoints =>
+{
+    endpoints.MapControllers();
+});
 app.Run();

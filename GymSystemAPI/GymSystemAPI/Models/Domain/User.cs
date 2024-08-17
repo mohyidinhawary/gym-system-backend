@@ -34,6 +34,10 @@ namespace GymSystemAPI.Models.Domain
         public string? Experince { get; set; } 
 
         
-        public DateTime? CreatedAt { get; set; } 
+        public DateTime? CreatedAt { get; set; }
+        public ICollection<Payment> Payments { get; set; }
+        public ICollection<QR> QRs { get; set; }
+
+        public ICollection<Course> courses { get; set; }
     }
 }

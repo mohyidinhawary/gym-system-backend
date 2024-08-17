@@ -22,19 +22,13 @@ namespace GymSystemAPI.Services.Login
         public async  Task <bool> ValidateUserAsync(string email, string password)
 
         {
-            var user = await _context.Users.FirstOrDefaultAsync(u => u.Email == email);
+            var user = await _context.Users.FirstOrDefaultAsync(u => u.Email == email&&u.Password==password);
             if (user == null)
             {
                 return false;
             }
 
-            var passwordHasher = new PasswordHasher<User>();
-            var result = passwordHasher.VerifyHashedPassword(user, user.Password, password);
-
-            if (result == PasswordVerificationResult.Failed)
-            {
-                return false;
-            }
+           
 
            return true;
         }

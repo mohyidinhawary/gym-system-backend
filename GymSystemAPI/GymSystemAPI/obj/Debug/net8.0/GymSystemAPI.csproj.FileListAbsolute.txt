@@ -147,3 +147,6 @@ C:\Users\mohyidin hawary\Desktop\GymSystemAPI\GymSystemAPI\bin\Debug\net8.0\Micr
 C:\Users\mohyidin hawary\Desktop\GymSystemAPI\GymSystemAPI\bin\Debug\net8.0\Scrutor.dll
 C:\Users\mohyidin hawary\Desktop\GymSystemAPI\GymSystemAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.dll
 C:\Users\mohyidin hawary\Desktop\GymSystemAPI\GymSystemAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\mohyidin hawary\Desktop\GymSystemAPI\GymSystemAPI\bin\Debug\net8.0\QRCoder.dll
+C:\Users\mohyidin hawary\Desktop\GymSystemAPI\GymSystemAPI\bin\Debug\net8.0\SixLabors.ImageSharp.dll
+C:\Users\mohyidin hawary\Desktop\GymSystemAPI\GymSystemAPI\bin\Debug\net8.0\zxing.dll

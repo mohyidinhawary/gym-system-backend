@@ -68,6 +68,8 @@ return Ok("Trainer Login Success");
             }
         }
 
+
+
         [HttpGet("Trainers")]
         public IActionResult GetTrainers()
         {
