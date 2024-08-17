@@ -23,5 +23,20 @@ namespace GymSystemAPI.Controllers.API.manager
             return Ok(listusers);
         }
 
+
+        [HttpGet("{id}")]
+        public IActionResult UserAccountStatement(int id)
+        {
+            var user = _context.Payments.FirstOrDefault(c => c.UserId == id );
+            if (user == null)
+            {
+                return NotFound();
+            }
+            return Ok(user);
+
+        }
+
+
+
     }
 }

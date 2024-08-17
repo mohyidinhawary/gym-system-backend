@@ -7,6 +7,7 @@ namespace GymSystemAPI.Models.Dto
    
     public class UserDto
     {
+      
         [Required,MaxLength(100)]
         public string FirstName { get; set; } = "";
         [Required,MaxLength(100)]
